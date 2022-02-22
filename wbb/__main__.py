@@ -110,8 +110,8 @@ home_keyboard_pm = InlineKeyboardMarkup(
                 text="❓ Commands ❓", callback_data="bot_commands"
             ),
             InlineKeyboardButton(
-                text="📌Updates Channel📌",
-                url="https://t.me/SLNinjaTeamchannel",
+                text="👨‍💻Devoloper",
+                url="https://t.me/Oshebrosl1",
             ),
         ],
         [
